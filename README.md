@@ -1,6 +1,6 @@
 # Restaurant_List
 
-This web app proovides a selection of Taipei local restaurants.
+This web app provides a selection of Taipei local restaurants.
 
 ### What you can do with it?
 Search resturants by name or category.
